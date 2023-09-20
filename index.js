@@ -57,6 +57,10 @@ let showlist = [
     {
         idShow: 6,
         showName: 'Battlestar Galactica, Service: Peacock?, 🏴‍☠️'
+        },
+    {
+        idShow: 7,
+        showName: 'Dead Little Roosters, Service: RT site'
         },           
 ];
 
